@@ -32,7 +32,7 @@
     "gulp-replace": "^0.4.0",
     "gulp-shell": "^0.2.9",
     "jshint-stylish": "^1.0.0",
-    "run-sequence": "^1.0.0"
+    "run-sequence": "^2.2.1"
   },
   "dependencies": {
     "functional-red-black-tree": "^1.0.1"
