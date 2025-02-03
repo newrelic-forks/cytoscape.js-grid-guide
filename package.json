@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/iVis-at-Bilkent/cytoscape.js-grid-guide",
   "devDependencies": {
-    "gulp": "^3.8.8",
+    "gulp": "^5.0.0",
     "gulp-jshint": "^1.8.5",
     "gulp-prompt": "^0.1.1",
     "gulp-replace": "^0.4.0",
