@@ -31,7 +31,7 @@
     "gulp-prompt": "^0.1.1",
     "gulp-replace": "^0.4.0",
     "gulp-shell": "^0.2.9",
-    "jshint-stylish": "^1.0.0",
+    "jshint-stylish": "^2.2.1",
     "run-sequence": "^1.0.0"
   },
   "dependencies": {
